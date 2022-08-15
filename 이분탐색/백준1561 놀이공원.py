@@ -1,30 +1,54 @@
-n,m = map(int,input().split())
-l=list(map(int,input().split()))
+def bfs(option,n,k): #option은 최소비용
+    if opition==-1:
+        q=[1]
+        visited={1:0}
+        while q:
+            node = q.pop(0)
+            for x in dic[node]:
+                if x not in visited:
+                    visited[x]=visited[node]+1
+                    q.append(x)
+        if n in visited:
+            return visited[n]
+        else:
+            return False
 
-if n<m:
-    print(n)
+
+
+
+
+
+n,p,k = map(int,input().split())
+dic={}
+for i in range(p):
+    x,y,z=map(int,input().split())
+    if x in dic:
+        dic[x]+=[(y,z)]
+    else:
+        dic[x]=[(y,z)]
+    if y in dic:
+        dic[y]+=[(x,z)]
+    else:
+        dic[y]=[(x,z)]
+switch=bfs(-1,n,k)
+if not switch:
+    print(-1)
+elif switch<=k:
+    print(0)
 else:
     start=0
-    time=0
-    end=60000000000
-    while start<=end:
-        mid = (start+end)//2
-        cnt=m
-        for i in range(m):
-            cnt+=mid//l[i]
-        if cnt>=n:
-            time=mid
-            end=mid-1
-        else:
+    end=1000000
+    ans=0
+    while start<end:
+        mid=(start+end)//2
+        if bfs(mid,n,k)==True:
             start=mid+1
-    cnt=m
-    for i in range(m):
-        cnt+=(time-1)//l[i]
-    for i in range(m):
-        if time%l[i]==0:
-            cnt+=1
-            if n==cnt:
-                print(i+1)
-                break
+            ans=mid
+        else:
+            end=mid-1
+    print(ans)
 
-# comment : 이분 탐색에서, 무엇을 기준으로 이분탐색할 것 인가를 생각해보게 하는 문제
+
+
+
+
