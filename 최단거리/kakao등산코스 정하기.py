@@ -1,3 +1,4 @@
+
 import heapq
 import copy
 def solution(n, paths, gates, summits):
