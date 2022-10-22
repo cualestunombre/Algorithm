@@ -1,18 +1,17 @@
-n = int(input())
-l=[list(map(int,input().split()))for i in range(n)]
-l.sort( key=lambda x:(-x[1]))
-score=0
+n=int(input())
+answer=0
+l=[tuple(map(int,input().split()))]
+l.sort(key=lambda x:(-x[1]))
 visited = {}
-for x,y in l:
-    day=x
+for i in l:
+    day=i[1]
     while day>0:
         if day in visited:
             day-=1
-        else:
-            break
     if day==0:
         pass
     else:
         visited[day]=True
-        score+=y
-print(score)
+        answer+=i[0]
+print(visited)
+print(answer)
