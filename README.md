@@ -43,6 +43,12 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">프로그래머스(kakao) 양과 늑대 - LEVEL3</a> 
 
+## 이분탐색
+<a style="color:gold" href="https://www.acmicpc.net/problem/1561">백준1561 놀이 공원 - 🥇2</a> 
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/3079">백준3079 입국심사 - 🥇5</a> 
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
 
   
 
