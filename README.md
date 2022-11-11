@@ -25,4 +25,21 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/67259">프로그래머스(kakao) 경주로 건설 - LEVEL3</a>
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">프로그래머스(kakao) 등산코스 정하기 - LEVEL3</a>
-  
+ 
+## 구현 --> 백준 문제집에서 삼성 기출문제를 많이 풀어 보시길 권장합니다
+<a style="color:gold" href="https://www.acmicpc.net/problem/16236">백준16236 아기상어 - 🥇3</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/18809">백준18809 Gaaaaaaaaaarden - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/14499">백준14499 주사위 굴리기 - 🥇4</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/23289">백준23289 온풍기 안녕 - 플레티넘5</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/17140">백준17140 이차원 배열과 연산 - 🥇4</a>
+
+
+
+
+
+
+
