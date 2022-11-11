@@ -38,7 +38,13 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/17140">백준17140 이차원 배열과 연산 - 🥇4</a>
 
 
+## 백트래킹 (그래프)
+<a style="color:gold" href="https://www.acmicpc.net/problem/1941">백준1941 소문난 칠공주 - 🥇3</a> #BFS/DFS-백트레킹이 포함된 완전 탐색 문제. 생각해볼 만한 요소가 많음.
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">프로그래머스(kakao) 양과 늑대 - LEVEL3</a> 
+
+
+  
 
 
 
