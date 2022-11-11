@@ -53,4 +53,7 @@
 ## 투포인터 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">프로그래머스(kakao) 보석쇼핑 - LEVEL3</a> 
   
-<a style="color:gold" href="https://www.acmicpc.net/problem/2437">백준2437 두 용액 - 🥇3</a>
+<a style="color:gold" href="https://www.acmicpc.net/problem/2437">백준2473 세 용액 - 🥇3</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/2437">백준2470 두 용액 - 🥇5</a> #세 용액과 비교해서 풀면 좋음.
+
