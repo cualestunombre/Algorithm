@@ -63,3 +63,14 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/60063">프로그래머스(kakao) 블록이동하기 - LEVEL3</a>
 
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
+
+## 힙
+<a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1202 보석 도둑 - 🥇2</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/11000">백준11000 강의실 배정 - 🥇5</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/13904">백준13904 과제 - 🥇3</a>
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">프로그래머스(kakao) 호텔방 배정 - LEVEL4</a>
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42891">프로그래머스(kakao) 무지의 먹방 라이브 - LEVEL4</a>
