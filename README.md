@@ -74,3 +74,6 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">프로그래머스(kakao) 호텔방 배정 - LEVEL4</a>
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42891">프로그래머스(kakao) 무지의 먹방 라이브 - LEVEL4</a>
+
+## 완전탐색
+<a style="color:gold" href="https://www.acmicpc.net/problem/16637">백준16637 괄호 추가하기 - 🥇3</a>
