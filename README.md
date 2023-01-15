@@ -91,4 +91,4 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/16637">백준16637 괄호 추가하기 - 🥇3</a>
 
 ## 그리디 알고리즘
-<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">프로그래머스(kakao) 택배 배달과 수거하기 - LEVEL2';\;;</a>
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">프로그래머스(kakao) 택배 배달과 수거하기 - LEVEL2</a>
