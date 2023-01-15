@@ -86,4 +86,9 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/15008/lessons/121686">프로그래머스(kakao) PCCP모의고사 운영체제</a>
 
 ## 완전탐색
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">프로그래머스(kakao) 이모티콘 할인행사 - LEVEL2</a>
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/16637">백준16637 괄호 추가하기 - 🥇3</a>
+
+## 그리디 알고리즘
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">프로그래머스(kakao) 택배 배달과 수거하기 - LEVEL2';\;;</a>
