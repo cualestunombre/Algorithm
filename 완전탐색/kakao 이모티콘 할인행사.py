@@ -2,7 +2,6 @@ from itertools import product
 def solution(users, emoticons):
     answer = []
     for i in product([10,20,30,40],repeat=len(emoticons)): #특정 할인율에 대해
-
         sales=0
         signUp=0
         for j, k in users:
