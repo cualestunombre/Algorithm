@@ -93,6 +93,8 @@
 ## 그리디 알고리즘
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">프로그래머스(kakao) 택배 배달과 수거하기 - LEVEL2</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/8980">백준8980 택배 - 🥇2</a>
+
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
 
