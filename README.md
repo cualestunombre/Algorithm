@@ -95,6 +95,9 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/8980">백준8980 택배 - 🥇2</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1781">백준1781 컵라면 - 🥇2</a>
+
+
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
 
