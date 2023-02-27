@@ -68,4 +68,4 @@ for x,y,z in querys:
     else:
         answers.append(seg.queryMin(y-1,z-1))
 for x in answers:
-    print(x[1])
+    print(x[1]+1)
