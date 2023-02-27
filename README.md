@@ -119,3 +119,5 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/11505">백준11505 구간곱  - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/14438">백준14438 수열과 쿼리 17  - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/14428">백준14428 수열과 쿼리 16  - 🥇1</a>
