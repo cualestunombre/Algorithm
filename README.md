@@ -111,3 +111,9 @@
 
 ## 세그먼트 트리(구간합)
 <a style="color:gold" href="https://www.acmicpc.net/problem/2042">백준2042 구간합 구하기 - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/2357">백준2357 최솟값과 최댓값 - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/10868">백준10868 최솟값 - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/10868">백준11505  - 🥇1</a>
