@@ -70,6 +70,8 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/60063">프로그래머스(kakao) 블록이동하기 - LEVEL3</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/16954">백준16954 움직이는 미로 탈출 - 🥇3</a>
+
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
 ## 힙
