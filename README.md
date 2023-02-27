@@ -107,3 +107,7 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/152995">프로그래머스 인사고과 - LEVEL3</a>
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">프로그래머스(kakao) 광고삽입 - LEVEL3</a>
+
+
+## 세그먼트 트리(구간합)
+<a style="color:gold" href="https://www.acmicpc.net/problem/2042">백준2042 구간합 구하기 - 🥇1</a>
