@@ -116,4 +116,6 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/10868">백준10868 최솟값 - 🥇1</a>
 
-<a style="color:gold" href="https://www.acmicpc.net/problem/11505">백준11505 구간곲  - 🥇1</a>
+<a style="color:gold" href="https://www.acmicpc.net/problem/11505">백준11505 구간곱  - 🥇1</a>
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/14438">백준14438 수열과 쿼리 17  - 🥇1</a>
