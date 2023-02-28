@@ -4,6 +4,8 @@
 
 
 ## 다이나믹 프로그래밍
+  <a style="color:gold" href="https://www.acmicpc.net/problem/1623">백준1623 신년 파티 - 🥇1</a> ---트리DP문제!! solve 못하더라도 풀어보면 좋아요
+  
   <a style="color:gold" href="https://www.acmicpc.net/problem/1937">백준1937 욕심쟁이판다 - 🥇3</a>
   
   <a style="color:gold" href="https://www.acmicpc.net/problem/1520">백준1520 내리막길 - 🥇3</a>
