@@ -4,6 +4,8 @@
 
 
 ## 다이나믹 프로그래밍
+  <a style="color:gold" href="https://www.acmicpc.net/problem/1623">백준1623 신년 파티 - 🥇1</a> ---트리DP문제!! solve 못하더라도 풀어보면 좋아요
+  
   <a style="color:gold" href="https://www.acmicpc.net/problem/1937">백준1937 욕심쟁이판다 - 🥇3</a>
   
   <a style="color:gold" href="https://www.acmicpc.net/problem/1520">백준1520 내리막길 - 🥇3</a>
@@ -109,7 +111,7 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">프로그래머스(kakao) 광고삽입 - LEVEL3</a>
 
 
-## 세그먼트 트리(구간합)
+## 세그먼트 트리(구간합) -- 코테에 거의 안나오는데 혹시나 해서.. 
 <a style="color:gold" href="https://www.acmicpc.net/problem/2042">백준2042 구간합 구하기 - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/2357">백준2357 최솟값과 최댓값 - 🥇1</a>
