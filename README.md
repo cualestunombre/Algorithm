@@ -22,6 +22,8 @@
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150365">프로그래머스 kakao 미로 탈출 명령어 - LEVEL3</a>
   
+  <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/136797">프로그래머 숫자 타자 연습 - LEVEL3</a> --> DP가 코테에서 어렵게 나오면 이정도 아닐까요...?
+  
 
 ## 최단거리(다익스트라, 플로이드-와샬)
 <a style="color:gold" href="https://www.acmicpc.net/problem/2307">백준2307 도로검문 - 🥇1</a>
