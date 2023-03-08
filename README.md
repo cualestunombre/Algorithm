@@ -19,7 +19,7 @@
   <a style="color:gold" href="https://www.acmicpc.net/problem/2201">백준2201 이친수 찾기 - 🥇2</a>
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/161988">연속 펄스 부분 수열의 합- LEVEL3</a> --> 쉬운 것도 
-  잘풀어야죠ㅠㅠ 부분수열
+  잘풀어야죠ㅠㅠ 부분수열 중 최대합
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131129">프로그래머스 카운트 다운 - LEVEL3</a>
   
