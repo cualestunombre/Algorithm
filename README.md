@@ -23,6 +23,8 @@
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131129">프로그래머스 카운트 다운 - LEVEL3</a>
   
+  <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42895">프로그래머스 N으로 표현 - LEVEL3</a> --> 상한이 있을 때, 어떻게 풀 지?
+  
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150365">프로그래머스 kakao 미로 탈출 명령어 - LEVEL3</a>
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/136797">프로그래머 숫자 타자 연습 - LEVEL3</a> --> DP가 코테에서 어렵게 나오면 이정도 아닐까요...?
