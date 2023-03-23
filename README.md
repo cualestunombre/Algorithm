@@ -115,6 +115,8 @@
 ## 자료구조
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/68646">프로그래머스 - 풍선 터트리기 - LEVEL3</a> --> 문제 인풋길이가 최대 100만인 것을 보고, 선형 자료구조를 사용해야겠다는 발상을 얻고, 나름의 해결책을 얻어갈 수 있는 문제입니다. 
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요~
+
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
 
