@@ -60,12 +60,15 @@
 ## 백트래킹 (그래프)
 <a style="color:gold" href="https://www.acmicpc.net/problem/1941">백준1941 소문난 칠공주 - 🥇3</a> #BFS/DFS-백트레킹이 포함된 완전 탐색 문제. 생각해볼 만한 요소가 많음.
 
-<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">프로그래머스(kakao) 양과 늑대 - LEVEL3</a> 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">프로그래머스(kakao) 카드 짝 맞추기 - LEVEL3</a> 
+--> 백트래킹 + BFS(응용) 정답을 못 맞추더라도 BFS부분에서 얻어갈 부분이 많음!! 
 
 ## 이분탐색
 <a style="color:gold" href="https://www.acmicpc.net/problem/1561">백준1561 놀이 공원 - 🥇2</a> 
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/3079">백준3079 입국심사 - 🥇5</a> 
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
 
