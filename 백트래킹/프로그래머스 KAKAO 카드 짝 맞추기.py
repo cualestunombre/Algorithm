@@ -39,7 +39,6 @@ def implCal(s,e,board):
                             break
                 else:
                     break
-
     return visited[e]
 
 
@@ -48,11 +47,13 @@ def implCal(s,e,board):
 def brute(target,visited,board,cur,value,dic):
     global cnt
     global minimum
+    print(visited)
     visited.append(target)
     x,y=dic[target][0]
     dx,dy=dic[target][1]
     distFirst = cal(cur,(x,y), (dx,dy), board)
     distSecond = cal(cur,(dx,dy), (x,y), board)
+
     if len(visited) >= cnt:
         if minimum > min(distFirst,distSecond)+value:
             minimum = min(distFirst,distSecond)+value
@@ -88,9 +89,8 @@ def solution(board, r, c):
             else:
                 dic[value].append((i,j))
     cnt=len(dic.keys())-1
-
+    l=[]
     for i in range(1,7):
-        l=[]
         if i in dic:
             brute(i,l,board,(r,c),0,dic)
 
