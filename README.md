@@ -1,5 +1,5 @@
 # 취업에 도움이 되는 알고리즘 문제 모음
-코테 빈출주제 및 좋은 문제 모음 풀고 네카라쿠배 갑시다~
+풀고 네카라 가자
 
 
 ## 다이나믹 프로그래밍
@@ -69,7 +69,8 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
 
-<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">프로그래머스 선입 선출 스케쥴링 - LEVEL3</a> 
+
 
 ## 투포인터 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">프로그래머스(kakao) 보석쇼핑 - LEVEL3</a> 
