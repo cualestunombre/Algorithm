@@ -68,6 +68,8 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/3079">백준3079 입국심사 - 🥇5</a> 
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/17951">백준17951 흩날리는 시험지 속에서 내 평점이 느껴진거야 - 🥇4</a> 
+
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">프로그래머스 선입 선출 스케쥴링 - LEVEL3</a> 
