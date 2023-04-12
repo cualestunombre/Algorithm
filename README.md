@@ -1,6 +1,6 @@
 # 취업에 도움이 되는 알고리즘 문제 모음
-
-각종 코딩테스트에 빈출되는 주제만을 모아, 좋은 문제들을 엄선하였습니다! 
+진짜로 좋은 문제만 모음
+풀고 네카라 가자
 
 
 ## 다이나믹 프로그래밍
@@ -68,9 +68,12 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/3079">백준3079 입국심사 - 🥇5</a> 
 
-<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
+<a style="color:gold" href="https://www.acmicpc.net/problem/17951">백준17951 흩날리는 시험지 속에서 내 평점이 느껴진거야 - 🥇4</a> 
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">프로그래머스(kakao) 징검다리 건너기 - LEVEL3</a> 
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">프로그래머스 선입 선출 스케쥴링 - LEVEL3</a> 
+
 
 ## 투포인터 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">프로그래머스(kakao) 보석쇼핑 - LEVEL3</a> 
@@ -119,6 +122,12 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/68646">프로그래머스 - 풍선 터트리기 - LEVEL3</a> --> 문제 인풋길이가 최대 100만인 것을 보고, 선형 자료구조를 사용해야겠다는 발상을 얻고, 나름의 해결책을 얻어갈 수 있는 문제입니다. 
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요~
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/15926">백준15926 현욱은 괄호왕이야!! - 🥇3</a>
+스택 개념잡기 좋은 문제!!
+
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요
 
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
