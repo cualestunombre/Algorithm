@@ -1,6 +1,6 @@
 # 취업에 도움이 되는 알고리즘 문제 모음
-진짜로 좋은 문제만 모음
-풀고 네카라 가자
+프로그래머스, 백준, SWEA에서 풀고 괜찮은 문제 모음
+
 
 
 ## 다이나믹 프로그래밍
@@ -18,8 +18,7 @@
   
   <a style="color:gold" href="https://www.acmicpc.net/problem/2201">백준2201 이친수 찾기 - 🥇2</a>
   
-  <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/161988">연속 펄스 부분 수열의 합- LEVEL3</a> --> 쉬운 것도 
-  잘풀어야죠ㅠㅠ 부분수열 중 최대합
+  <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/161988">연속 펄스 부분 수열의 합- LEVEL3</a> -->  부분수열 중 최대합
   
   <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/12942">프로그래머스 최적의 행렬 곱셈 - LEVEL3</a>  --> 알고리즘 교과서에 소개 되는 대표적인 DP문제로 꼭 한번 풀어보세요
   
@@ -91,6 +90,9 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/16954">백준16954 움직이는 미로 탈출 - 🥇3</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1167">백준1167 트리의 지름 - 🥇2</a>----------->
+<a style="color:gold" href="https://">트리의 지름 구하는 방법 및 증명</a> 
+
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
 ## 힙
@@ -128,6 +130,8 @@
 
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요
+
+<a style="color:gold" href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=3752&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">SWEA - 가능한 점수 - D4</a> --> 집합 및 해싱 문제!! 시간복잡도를 줄이는 아이디어를 얻기 좋음 
 
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
