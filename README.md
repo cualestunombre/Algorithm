@@ -91,7 +91,7 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/16954">백준16954 움직이는 미로 탈출 - 🥇3</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1167">백준1167 트리의 지름 - 🥇2</a>----------->
-<a style="color:gold" href="https://">트리의 지름 구하는 방법 및 증명</a> 
+<a style="color:gold" href="https://velog.io/@1dilumn0/%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84-%EA%B5%AC%ED%95%98%EA%B8%B0-%EB%B0%8F-%EC%A6%9D%EB%AA%85">트리의 지름 구하는 방법 및 증명</a> 
 
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
