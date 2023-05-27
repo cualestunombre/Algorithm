@@ -55,6 +55,8 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150366">프로그래머스(kakao) 표병합 - LEVEL3</a>
 
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=3&pageSize=20">코드트리(삼성전자) 꼬리잡기놀이 </a> #예외케이스 및 생각할 요소가 넘처나는 구현 문제
+
 
 ## 백트래킹 (그래프)
 <a style="color:gold" href="https://www.acmicpc.net/problem/1941">백준1941 소문난 칠공주 - 🥇3</a> #BFS/DFS-백트레킹이 포함된 완전 탐색 문제. 생각해볼 만한 요소가 많음.
