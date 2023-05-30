@@ -42,7 +42,7 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">프로그래머스(kakao) 등산코스 정하기 - LEVEL3</a>
  
-## 구현 --> 백준 문제집에서 삼성 기출문제를 많이 풀어 보시길 권장합니다
+## 구현 --> 백준과 코드트리에 삼성전자 기출문제가 있으니 풀면, 많은 도움이 됩니다
 <a style="color:gold" href="https://www.acmicpc.net/problem/16236">백준16236 아기상어 - 🥇3</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/18809">백준18809 Gaaaaaaaaaarden - 🥇1</a>
@@ -55,7 +55,17 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150366">프로그래머스(kakao) 표병합 - LEVEL3</a>
 
-<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=3&pageSize=20">코드트리(삼성전자) 꼬리잡기놀이 </a> #예외케이스 및 생각할 요소가 넘처나는 구현 문제
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=3&pageSize=20">코드트리(삼성전자) 꼬리잡기놀이  - 🥇1 </a> #예외케이스 및 생각할 요소가 넘처나는 구현 문제
+
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=1&pageSize=20&name=%ED%8F%AC%ED%83%91">코드트리(삼성전자) 포탑부수기 - 🥇1 </a>
+
+<a style="color:gold" href="https://www.codetree.ai/problems/tree-kill-all/description">코드트리(삼성전자) 나무박멸 - 🥇4 </a> 
+
+<a style="color:gold" href="https://www.codetree.ai/problems/battle-ground/description">코드트리(삼성전자) 싸움땅 - 🥇2 </a> 
+
+
+
+
 
 
 ## 백트래킹 (그래프)
