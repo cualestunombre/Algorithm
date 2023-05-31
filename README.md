@@ -145,6 +145,9 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/15926">백준15926 현욱은 괄호왕이야!! - 🥇3</a>
 스택 개념잡기 좋은 문제!!
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/2812">백준2812 현욱은 괄호왕이야!! - 🥇3</a>
+그리디와 스택의 결합
+
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요
 
