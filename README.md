@@ -107,6 +107,8 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/1167">백준1167 트리의 지름 - 🥇2</a>----------->
 <a style="color:gold" href="https://velog.io/@1dilumn0/%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84-%EA%B5%AC%ED%95%98%EA%B8%B0-%EB%B0%8F-%EC%A6%9D%EB%AA%85">트리의 지름 구하는 방법 및 증명</a> 
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/2234">백준2234 성곽 - 🥇3</a>----------->
+
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
 ## 힙
@@ -147,7 +149,7 @@
 <a style="color:gold" href="https://www.acmicpc.net/problem/15926">백준15926 현욱은 괄호왕이야!! - 🥇3</a>
 스택 개념잡기 좋은 문제!!
 
-<a style="color:gold" href="https://www.acmicpc.net/problem/2812">백준2812 현욱은 괄호왕이야!! - 🥇3</a>
+<a style="color:gold" href="https://www.acmicpc.net/problem/2812">백준2812 크게 만들기 - 🥇3</a>
 그리디와 스택의 결합
 
 
