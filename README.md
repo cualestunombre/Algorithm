@@ -65,6 +65,8 @@
 
 <a style="color:gold" href="https://www.codetree.ai/problems/battle-ground/description">코드트리(삼성전자) 싸움땅 - 🥇2 </a> 
 
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/rabit-and-race/description?page=3&pageSize=20">코드트리(삼성전자) 토끼와 경주 - 🥇1 </a>  --> 시간 복잡도 통과가 매우 힘들다 + 시간복잡도 issue발생 시 dictionary로 정보를 저장하지말고 배열을 사용하자 + 파이썬 우선순위큐는 여러가지 기준으로 정렬을 지원한다 
+
 
 
 
