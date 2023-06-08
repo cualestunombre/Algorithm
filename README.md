@@ -131,6 +131,8 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/16637">백준16637 괄호 추가하기 - 🥇3</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/14391">백준14391 종이 조각 - 🥇3</a> --> dfs식 완전 탐색
+
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">프로그래머스(kakao)외벽탐색 - LEVEL 3</a>
 순열완전탐색 
 
