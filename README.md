@@ -14,6 +14,8 @@
   
   <a style="color:gold" href="https://www.acmicpc.net/problem/2616">백준2616 소형기관차 - 🥇3</a>
   
+   <a style="color:gold" href="https://www.acmicpc.net/problem/2572">백준2572 보드게임 - 🥇3</a> ---> 기초적인 2차원 DP
+   
    <a style="color:gold" href="https://www.acmicpc.net/problem/2186">백준2186 문자판 - 🥇3</a>
   
   <a style="color:gold" href="https://www.acmicpc.net/problem/2201">백준2201 이친수 찾기 - 🥇2</a>
@@ -66,6 +68,9 @@
 <a style="color:gold" href="https://www.codetree.ai/problems/battle-ground/description">코드트리(삼성전자) 싸움땅 - 🥇2 </a> 
 
 <a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/rabit-and-race/description?page=3&pageSize=20">코드트리(삼성전자) 토끼와 경주 - 🥇1 </a>  --> 시간 복잡도 통과가 매우 힘들다 + 시간복잡도 issue발생 시 dictionary로 정보를 저장하지말고 배열을 사용하자 + 파이썬 우선순위큐는 여러가지 기준으로 정렬을 지원한다 
+
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/autonomous-driving/description?page=1&pageSize=20">코드트리(삼성전자) 자율주행 자동차 - 🥇5 </a> --> 기초적인 구현
+
 
 
 
