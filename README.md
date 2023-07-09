@@ -182,6 +182,8 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72414">프로그래머스(kakao) 광고삽입 - LEVEL3</a>
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/92344">프로그래머스(kakao) 파괴되지 않은 건물 - LEVEL3</a> --> 2차원 IMOS기법
+
 
 ## 세그먼트 트리(구간합) -- 코테에 거의 안나오는데 혹시나 해서.. 
 <a style="color:gold" href="https://www.acmicpc.net/problem/2042">백준2042 구간합 구하기 - 🥇1</a>
