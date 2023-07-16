@@ -121,6 +121,8 @@
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
 ## 힙
+<a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1655 가운데를 말해요 - 🥇2</a> ----> 어려운 힙 문제
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1202 보석 도둑 - 🥇2</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/11000">백준11000 강의실 배정 - 🥇5</a>
