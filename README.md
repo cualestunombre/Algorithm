@@ -149,6 +149,7 @@
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">프로그래머스(kakao)외벽탐색 - LEVEL 3</a>
 순열완전탐색 
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/14391">백준17136 색종이 붙이기 - 🥇2</a> --> 완전탐색의 정석같은 문제
 
 
 ## 그리디 알고리즘
