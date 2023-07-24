@@ -140,6 +140,8 @@
 ## 완전탐색
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">프로그래머스(kakao) 이모티콘 할인행사 - LEVEL2</a>
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/214288">프로그래머스(현대모비스) 상담원 인원 - LEVEL3</a> --> 중복조합 만들어 내는 법(자연수의 조합 + 순열 + 집합) + 힙으로 인원 배분하는 기법 == 쉽지 않음
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/16637">백준16637 괄호 추가하기 - 🥇3</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/17825">백준17825 주사위 윷놀이 - 🥇2</a> --> 모든 경우의 수를 순열화 하여 해보자! 반복문
