@@ -80,8 +80,7 @@
 
 <a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=3&pageSize=20">코드트리(삼성전자) 팩맨 - 🥇1 </a> --> dx,dy테크닉, 회전, 꼼꼼한 구현, 좌표 관리(무엇을 기준으로?)
 
-
-
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=3&pageSize=20">코드트리(삼성전자) 술래잡기 - 🥇1 </a> --> dx,dy테크닉, 나선형 테크닉(노션에 정리)
 
 
 ## 백트래킹 (그래프)
