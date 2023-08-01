@@ -78,7 +78,7 @@
 
 <a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/autonomous-driving/description?page=1&pageSize=20">코드트리(삼성전자) 자율주행 자동차 - 🥇5 </a> --> 기초적인 구현
 
-
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=3&pageSize=20">코드트리(삼성전자) 팩맨 - 🥇1 </a> --> dx,dy테크닉, 회전, 꼼꼼한 구현, 좌표 관리(무엇을 기준으로?)
 
 
 
