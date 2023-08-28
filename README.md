@@ -163,6 +163,11 @@
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/14391">백준17136 색종이 붙이기 - 🥇2</a> --> 완전탐색의 정석같은 문제
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1079">백준1079 - 마피아 🥇2</a> --> 백트래킹 같은 완전 탐색
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131703">프로그래머스 2차원 동전 뒤집기- LEVEL 3</a>
+--> 조합으로 경우의 수 생성 -> 다 탐색해본다
+
 
 ## 그리디 알고리즘
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">프로그래머스(kakao) 택배 배달과 수거하기 - LEVEL2</a>
