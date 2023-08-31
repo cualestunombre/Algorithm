@@ -115,6 +115,8 @@
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/87694">프로그래머스 아이템줍기 - LEVEL3</a> 
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/86052">프로그래머스 빛의 경로 사이클 - LEVEL2</a> -----------> 어려워 보이지만 풀만한 문제
+
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/60063">프로그래머스(kakao) 블록이동하기 - LEVEL3</a>
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/43163">프로그래머스 단어변환 - LEVEL3</a> 
