@@ -41,6 +41,8 @@
   
 
 ## 최단거리(다익스트라, 플로이드-와샬)
+<a style="color:gold" href="https://www.acmicpc.net/problem/2423">백준2423 전구를 켜라 - 🥇1</a> --> 다익스트라 응용(노드사이 거리만 최소화의 대상이 아니다)
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/2307">백준2307 도로검문 - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/11085">백준11085 군사이동 - 🥇3</a>
