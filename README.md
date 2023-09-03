@@ -92,6 +92,8 @@
 --> 백트래킹 + BFS(응용) 정답을 못 맞추더라도 BFS부분에서 얻어갈 부분이 많음!! 
 
 ## 이분탐색
+<a style="color:gold" href="https://www.acmicpc.net/problem/2515">백준2515 전시장 - 🥇2</a>  --> 이분탐색과 DP가 섞인 어려운 문제
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/1561">백준1561 놀이 공원 - 🥇2</a> 
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/3079">백준3079 입국심사 - 🥇5</a> 
