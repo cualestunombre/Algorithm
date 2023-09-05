@@ -41,6 +41,8 @@
   
 
 ## 최단거리(다익스트라, 플로이드-와샬)
+<a style="color:gold" href="https://www.acmicpc.net/problem/2423">백준2423 전구를 켜라 - 🥇1</a> --> 다익스트라 응용(노드사이 거리만 최소화의 대상이 아니다)
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/2307">백준2307 도로검문 - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/11085">백준11085 군사이동 - 🥇3</a>
@@ -75,6 +77,8 @@
 <a style="color:gold" href="https://www.codetree.ai/problems/tree-kill-all/description">코드트리(삼성전자) 나무박멸 - 🥇4 </a> 
 
 <a style="color:gold" href="https://www.codetree.ai/problems/battle-ground/description">코드트리(삼성전자) 싸움땅 - 🥇2 </a> 
+
+<a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner">코드트리(삼성전자) 메이즈러너 - 🥇3 </a>  --> 깡구현(꼼꼼하게 체크, 코드 다시 검토, 배열회전 테크닉)
 
 <a style="color:gold" href="https://www.codetree.ai/training-field/frequent-problems/problems/rabit-and-race/description?page=3&pageSize=20">코드트리(삼성전자) 토끼와 경주 - 🥇1 </a>  --> 시간 복잡도 통과가 매우 힘들다 + 시간복잡도 issue발생 시 dictionary로 정보를 저장하지말고 배열을 사용하자 + 파이썬 우선순위큐는 여러가지 기준으로 정렬을 지원한다 
 
