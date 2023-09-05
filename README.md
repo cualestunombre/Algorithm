@@ -5,6 +5,8 @@ python - format(십진수,f'0{자릿수}b')
 <br>
 <a style="color:gold" href="https://www.acmicpc.net/problem/16938">백준16938 욕심쟁이판다 - 🥇5</a> --> 비트마스킹 기본(왜 비트마스킹을 쓰는 가?)
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/9997">백준9997 폰트 - 🥇3</a> a--> bitwise OR 
+
 
 ## 다이나믹 프로그래밍
   <a style="color:gold" href="https://www.acmicpc.net/problem/1623">백준1623 신년 파티 - 🥇1</a> ---트리DP문제!! solve 못하더라도 풀어보면 좋아요
