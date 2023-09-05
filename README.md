@@ -5,7 +5,7 @@ python - format(십진수,f'0{자릿수}b')
 <br>
 <a style="color:gold" href="https://www.acmicpc.net/problem/16938">백준16938 욕심쟁이판다 - 🥇5</a> --> 비트마스킹 기본(왜 비트마스킹을 쓰는 가?)
 
-<a style="color:gold" href="https://www.acmicpc.net/problem/9997">백준9997 폰트 - 🥇3</a> a--> bitwise OR 
+<a style="color:gold" href="https://www.acmicpc.net/problem/9997">백준9997 폰트 - 🥇3</a> --> bitwise OR 
 
 
 ## 다이나믹 프로그래밍
