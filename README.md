@@ -65,6 +65,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/16236">백준16236 아기상어 - 🥇3</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/13460">백준13460 구슬탈출 2 - 🥇1</a> --> 그냥 매우 어렵다
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/18809">백준18809 Gaaaaaaaaaarden - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/14499">백준14499 주사위 굴리기 - 🥇4</a>
