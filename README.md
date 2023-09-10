@@ -54,6 +54,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1854">백준1854 k번째 최단경로 - 플래티넘4</a> --> 다익스트라에 자신 있다면 도전
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/17833">백준17833 홍익대학교 지하캠퍼스 - 플래티넘5</a> --> 간단한 다익스트라 응용
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/2307">백준2307 도로검문 - 🥇1</a>
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/11085">백준11085 군사이동 - 🥇3</a>
