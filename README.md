@@ -9,6 +9,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1194">백준1194 달이 차오른다 가자- 🥇1</a> --> bitwise OR/AND, 2차원 VISTIED/ 개인적으로 아주 좋다고 생각하는 문제!! 
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1285">백준1285 동전뒤집기 - 🥇1</a> --> bitwise XOR, 완전 탐색  
+
 
 ## 다이나믹 프로그래밍
   <a style="color:gold" href="https://www.acmicpc.net/problem/1103">백준1103 내리막길 - 🥇2</a> --> 사이클을 어떻게 스마트하게 처리할 것 인가? 
@@ -148,6 +150,8 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://velog.io/@1dilumn0/%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84-%EA%B5%AC%ED%95%98%EA%B8%B0-%EB%B0%8F-%EC%A6%9D%EB%AA%85">트리의 지름 구하는 방법 및 증명</a> 
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/2234">백준2234 성곽 - 🥇3</a>-----------> 어떻게 그룹을 잘지어 볼까? 
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/17267">백준17267 상남자 - 플래티넘5</a> ----> BFS 응용
 
 !!! 백준에 벽부수기 시리즈를 검색하여 풀어 보세요
 
