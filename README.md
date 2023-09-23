@@ -112,6 +112,10 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">프로그래머스(kakao) 카드 짝 맞추기 - LEVEL3</a> 
 --> 백트래킹 + BFS(응용) 정답을 못 맞추더라도 BFS부분에서 얻어갈 부분이 많음!! 
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131702">프로그래머스 고고학 최고의 발견- LEVEL3</a>
+--> 어려운 백트래킹 문제(무엇을 기준으로 돌아갈 것인가?) 
+
+
 ## 이분탐색
 <a style="color:gold" href="https://www.acmicpc.net/problem/2515">백준2515 전시장 - 🥇2</a>  --> 이분탐색과 DP가 섞인 어려운 문제
 
@@ -220,6 +224,9 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요
 
 <a style="color:gold" href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE&problemTitle=3752&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">SWEA - 가능한 점수 - D4</a> --> 집합 및 해싱 문제!! 시간복잡도를 줄이는 아이디어를 얻기 좋음 
+
+## 분리집합(union & find)
+<a style="color:gold" href="https://www.acmicpc.net/problem/20040">백준20040 크게 만들기 - 🥇4</a> --> 분리집합 기초 문제
 
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
