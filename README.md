@@ -112,6 +112,10 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">프로그래머스(kakao) 카드 짝 맞추기 - LEVEL3</a> 
 --> 백트래킹 + BFS(응용) 정답을 못 맞추더라도 BFS부분에서 얻어갈 부분이 많음!! 
 
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131702">프로그래머스 고고학 최고의 발견- LEVEL3</a>
+--> 어려운 백트래킹 문제(무엇을 기준으로 돌아갈 것인가?) 
+
+
 ## 이분탐색
 <a style="color:gold" href="https://www.acmicpc.net/problem/2515">백준2515 전시장 - 🥇2</a>  --> 이분탐색과 DP가 섞인 어려운 문제
 
