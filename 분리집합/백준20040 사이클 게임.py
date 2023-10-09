@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(200000)
 n,m= map(int,input().split())
 l = [tuple(map(int,input().split())) for i in range(m)]
 parent = {}
