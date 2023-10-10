@@ -230,6 +230,8 @@ python - format(십진수,f'0{자릿수}b')
 ## 분리집합(union & find)
 <a style="color:gold" href="https://www.acmicpc.net/problem/20040">백준20040 크게 만들기 - 🥇4</a> --> 분리집합 기초 문제
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/17398">백준17398 통신망 분할 - 플래티넘5</a> --> 분리집합 응용 문제(알고리즘 문제를 많이 풀다보면 순서를 바꿔서 볼 때 문제가 풀릴 때가 꽤 있음) 
+
 ## 정수론
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">프로그래머스(kakao) 표현 가능한 이진트리 - LEVEL3</a>
 
