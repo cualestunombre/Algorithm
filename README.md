@@ -222,6 +222,9 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://www.acmicpc.net/problem/2812">백준2812 크게 만들기 - 🥇3</a>
 그리디와 스택의 결합
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1918">백준1918 후위 표기식 - 🥇2</a>
+까다로운 스택 문제(반드시 다시 풀어볼 것)
+
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/42892">프로그래머스(kakao) - 길 찾기 게임 - LEVEL3</a> --> 이진트리에 대한 개념을 잡기에 정말 좋은 문제입니다! 이진트리를 공부하고 풀어보세요
 
