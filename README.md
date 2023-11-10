@@ -15,6 +15,8 @@ python - format(십진수,f'0{자릿수}b')
 
 
 ## 다이나믹 프로그래밍
+  <a style="color:gold" href="https://www.acmicpc.net/problem/2662">백준2662 기업투자 - 🥇2</a> --> 전형적인 DP
+
   <a style="color:gold" href="https://www.acmicpc.net/problem/1103">백준1103 내리막길 - 🥇2</a> --> 사이클을 어떻게 스마트하게 처리할 것 인가? 
 
   <a style="color:gold" href="https://www.acmicpc.net/problem/1623">백준1623 신년 파티 - 🥇1</a> ---트리DP문제!! solve 못하더라도 풀어보면 좋아요
