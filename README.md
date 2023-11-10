@@ -166,7 +166,9 @@ python - format(십진수,f'0{자릿수}b')
 ## 힙
 <a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1655 가운데를 말해요 - 🥇2</a> ----> 어려운 힙 문제
 
-<a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1202 보석 도둑 - 🥇2</a>
+<a style="color:gold" href="https://www.acmicpc.net/problem/1202">백준1202 보석 도둑 - 🥇2</a> ----> 힙/그리디/정렬
+
+<a style="color:gold" href="https://www.acmicpc.net/problem/1826">백준1826 연료 채우기 - 🥇2</a> ----> 힙/그리디/정렬
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/11000">백준11000 강의실 배정 - 🥇5</a>
 
