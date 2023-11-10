@@ -213,6 +213,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1781">백준1781 컵라면 - 🥇2</a>
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1339">백준1339 단어 수학 - 🥇4</a>
+
 ## 자료구조
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/68646">프로그래머스 - 풍선 터트리기 - LEVEL3</a> --> 문제 인풋길이가 최대 100만인 것을 보고, 선형 자료구조를 사용해야겠다는 발상을 얻고, 나름의 해결책을 얻어갈 수 있는 문제입니다. 
 
