@@ -1,6 +1,6 @@
 # 취업에 도움이 되는 알고리즘 문제 모음
 프로그래머스, 백준, SWEA에서 풀고 괜찮은 문제 모음
-## 비트마스킹 --> 최근들어 중요해진 주제
+## 비트마스킹 
 python - format(십진수,f'0{자릿수}b') 
 <br>
 <a style="color:gold" href="https://www.acmicpc.net/problem/16938">백준16938 욕심쟁이판다 - 🥇5</a> --> 비트마스킹 기본(왜 비트마스킹을 쓰는 가?)
@@ -15,6 +15,8 @@ python - format(십진수,f'0{자릿수}b')
 
 
 ## 다이나믹 프로그래밍
+<a style="color:gold" href="https://www.acmicpc.net/problem/7579">백준2629 양팔저울 - 🥇3</a> --> 변칙적 DP
+
  <a style="color:gold" href="https://www.acmicpc.net/problem/7579">백준7579 앱 - 🥇3</a> --> 냅색 문제
 
   <a style="color:gold" href="https://www.acmicpc.net/problem/2662">백준2662 기업투자 - 🥇2</a> --> 전형적인 DP
