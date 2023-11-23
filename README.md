@@ -11,6 +11,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1285">백준1285 동전뒤집기 - 🥇1</a> --> bitwise XOR, 완전 탐색  
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1029">백준1029 그림교홴 - 🥇1</a> --> 전형적인 bitfield dp
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/1562">백준1562 계단수 - 🥇1</a> --> dp는 기본적으로 stateless한 것이 원칙이지만, 비트필드를 통해서 제한적으로 state를 추가해 줄 수 있다!! (비트필드 dp의 핵심 아이디어)
 
 
