@@ -210,6 +210,8 @@ python - format(십진수,f'0{자릿수}b')
 
 <a style="color:gold" href="https://www.acmicpc.net/problem/1079">백준1079 - 마피아 🥇2</a> --> 백트래킹 같은 완전 탐색
 
+<a style="color:gold" href="https://www.acmicpc.net/problem/1035">백준1035 - 조각 움직이기 🥇1</a> --> 전형적인 (순열,조합) 완전탐색
+
 <a style="color:gold" href="https://www.acmicpc.net/problem/16985">백준16985 - Maaaaaaaaaze 🥇2</a> --> 배열돌리기 테크닉 + bfs + 순열
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/131703">프로그래머스 2차원 동전 뒤집기- LEVEL 3</a>
