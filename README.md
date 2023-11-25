@@ -189,6 +189,9 @@ python - format(십진수,f'0{자릿수}b')
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/15008/lessons/121686">프로그래머스(kakao) PCCP모의고사 운영체제</a>
 
 ## 완전탐색
+
+<a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/250134">프로그래머스 [PCCP 기출문제] 4번 - LEVEL3</a> --> DFS/완전탐색
+
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">프로그래머스(kakao) 이모티콘 할인행사 - LEVEL2</a>
 
 <a style="color:gold" href="https://school.programmers.co.kr/learn/courses/30/lessons/214288">프로그래머스(현대모비스) 상담원 인원 - LEVEL3</a> --> 중복조합 만들어 내는 법(자연수의 조합 + 순열 + 집합) + 힙으로 인원 배분하는 기법 == 쉽지 않음
